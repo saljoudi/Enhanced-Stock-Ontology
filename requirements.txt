@@ -1,0 +1,90 @@
+# Core Dependencies
+pandas>=1.5.0
+numpy>=1.24.0
+python-dateutil>=2.8.0
+
+# Technical Analysis
+ta>=0.10.2
+yahooquery>=2.3.0
+
+# Semantic Web & Ontology
+rdflib>=6.2.0
+owlrl>=6.0.2
+
+# Web Dashboard
+dash>=2.14.0
+dash-bootstrap-components>=1.5.0
+plotly>=5.17.0
+plotly-express>=0.4.1
+
+# Machine Learning
+scikit-learn>=1.3.0
+tensorflow>=2.13.0
+joblib>=1.3.0
+
+# Performance & Caching
+redis>=4.6.0
+memory-profiler>=0.60.0
+psutil>=5.9.0
+
+# Real-time Streaming
+websocket-client>=1.6.0
+aiohttp>=3.8.0
+requests>=2.31.0
+
+# Data Processing
+scipy>=1.11.0
+statsmodels>=0.14.0
+
+# Utilities
+pathlib2>=2.3.0
+typing-extensions>=4.7.0
+dataclasses>=0.6; python_version < '3.7'
+
+# Development & Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+pytest-cov>=4.1.0
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.5.0
+
+# Optional Dependencies
+# Uncomment for additional features
+
+# Advanced Visualizations
+# plotly-resampler>=0.9.0
+# dash-extensions>=0.1.0
+
+# Database Support
+# sqlalchemy>=2.0.0
+# sqlite3
+
+# Advanced ML
+# xgboost>=1.7.0
+# lightgbm>=3.3.0
+# catboost>=1.2.0
+
+# Natural Language Processing
+# nltk>=3.8.0
+# spacy>=3.6.0
+# transformers>=4.30.0
+
+# Financial Data APIs
+# yfinance>=0.2.0
+# alpha-vantage>=2.3.0
+# quandl>=3.7.0
+
+# Visualization Enhancements
+# matplotlib>=3.7.0
+# seaborn>=0.12.0
+# bokeh>=3.2.0
+
+# Performance Monitoring
+# py-spy>=0.3.0
+# memory-profiler>=0.60.0
+
+# Documentation
+# sphinx>=7.1.0
+# sphinx-rtd-theme>=1.3.0
+# myst-parser>=2.0.0
